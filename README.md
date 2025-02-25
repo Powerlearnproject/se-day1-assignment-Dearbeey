@@ -46,11 +46,17 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Unit testing-includes testing individual components or modules of a software
 Integration testing-is testing interactions between different components or subsystems
+System testing-this is testing the entire software system as a whole
+Acceptance testing-is the testing of the software against user requirements to ensure it meets user needs.
+
+Their importance in software  quality assurance they help identify and fix defects early in the development process leading to higher-quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Promp engineering is crafting questions or statements to get the best possible response from AI models.
+Its importance is that it helps improve interactions between humans and AI
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
